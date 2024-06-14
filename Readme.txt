@@ -1,0 +1,1 @@
+This code is for the ""Bio‐Inspired Photosensory Artificial Synapse Based on Functionalized Tellurium Multiropes for Neuromorphic Computing"
